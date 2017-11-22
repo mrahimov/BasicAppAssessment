@@ -4,4 +4,8 @@
 
 #### Murad Rhimov
 
-[Murad Rahimov LinkedIn](https://www.linkedin.com/mynetwork/)
+[Murad Rahimov LinkedIn](https://www.inkedin.com/mynetwork/)
+
+#### Did not understand RecyclerView.
+#### Need more practice!
+#### all other stuff was essy.
